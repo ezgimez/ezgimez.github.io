@@ -438,3 +438,13 @@ section.pink {
   transition: bottom 300ms cubic-bezier(0.23, 1, 0.32, 1), transform 350ms 350ms cubic-bezier(0.23, 1, 0.32, 1), -webkit-transform 350ms 350ms cubic-bezier(0.23, 1, 0.32, 1);
 }
 /*# sourceMappingURL=styles.css.map */
+
+.col-12 {
+	flex: 0 0 100%;
+	max-width: 100%;
+}
+
+.col-md-6 {
+	flex: 0 0 100%;
+	max-width: 100%;
+}
