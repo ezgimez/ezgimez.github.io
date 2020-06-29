@@ -39,6 +39,10 @@ a:hover {
   clear: none;
 }
 
+ul {
+    text-align: left;
+}
+
 .main-content:after {
   position: absolute;
   content: '';
@@ -444,7 +448,6 @@ section.pink {
 	max-width: 100%;
 }
 
-.col-md-6 {
-	flex: 0 0 100%;
-	max-width: 100%;
+ul {
+    text-align: left;
 }
