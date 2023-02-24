@@ -18,7 +18,7 @@
 Hi, I'm Ezgi (she/they). I am a second year **PhD candidate in
 Electrical Engineering** at *New York University* under the advisory of
 Professor Elza Erkip, [CommIT Group at NYU](https://wp.nyu.edu/elza_erkip/). I
-received my MEng degree in Electrical Engineering from *Imperial College London* in 2021.
+received my (integrated) MEng degree in Electrical Engineering from *Imperial College London* in 2021.
 
 My current interests are in *learned (distributed) compression models* and multi-terminal source coding. My background is in *(information-theoretic) deep learning* and *statistical signal processing*. Outside of academia, I go hiking as well as try to expand my food and coffee palate.
 
