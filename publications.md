@@ -1,23 +1,20 @@
-@def title = "Nikola's Publications"
+@def title = "Ezgi's Publications"
 @def tags = ["publications"]
 
 # Publications
 
-## Journal Papers
-
-* \uline{N. Janjušević}, A. Khalilian-Gourtani and Y. Wang, *"CDLNet: Noise-Adaptive Convolutional Dictionary Learning Network for Blind Denoising and Demosaicing,"* in IEEE Open Journal of Signal Processing, vol. 3, pp. 196-211, 2022, doi: 10.1109/OJSP.2022.3172842. [pdf](https://ieeexplore.ieee.org/document/9769957), [page](/projects/dcdl)
 
 ## Conference Papers
 
-* \uline{N. Janjušević}, A. Khalilian-Gourtani and Y. Wang, *"Gabor is Enough: Interpretable Deep Denoising with a Gabor Synthesis Dictionary Prior,"* 2022 IEEE 14th Image, Video, and Multidimensional Signal Processing Workshop (IVMSP), 2022, pp. 1-5, doi: 10.1109/IVMSP54334.2022.9816313. [pdf](https://ieeexplore.ieee.org/document/9816313), [preprint](https://arxiv.org/abs/2204.11146), [page](/projects/dcdl/#gabor_is_enough)
+
+* N. Mital\*, \uline{E. Ozyilkan*}, A. Gargani\*, D. Gunduz, *"Neural Distributed Image Compression with Cross-Attention Feature Alignment,"* IEEE Winter Conference on Applications of Computer Vision (WACV), Hawaii, January 2023. [pdf](https://openaccess.thecvf.com/content/WACV2023/papers/Mital_Neural_Distributed_Image_Compression_With_Cross-Attention_Feature_Alignment_WACV_2023_paper.pdf)
+
+* N. Mital\*, \uline{E. Ozyilkan*}, A. Gargani\*, D. Gunduz, *"Neural Distributed Image Compression using Common Information,"* IEEE Data Compression Conference (DCC), Utah, March 2022. [pdf](https://ieeexplore.ieee.org/document/9810729)
+
 
 ## Preprints
-<!--
-* \uline{N. Janjušević}, A. Khalilian-Gourtani, Y. Wang. *"CDLNet: Noise-Adaptive Convolutional Dictionary Learning Network for Blind Denoising and Demosaicing"* arxiv preprint, 2021. [pdf](https://arxiv.org/abs/2112.00913), 
--->
+* \uline{E. Ozyilkan*}, M. Ulhaq\*, H. Choi, F. Racapé, *"Learned Disentangled Latent Representations for Scalable Image Coding for Humans and Machines,"* *to appear in IEEE Data Compression Conference (DCC), 2023*. [pdf](https://arxiv.org/pdf/2301.04183.pdf)
 
-* \uline{N. Janjušević}, A. Khalilian-Gourtani, Y. Wang. *"CDLNet: Robust and Interpretable Denoising Through Deep Convolutional Dictionary Learning"* arxiv preprint, 2021. [pdf](https://arxiv.org/abs/2103.04779)
 
-## Application Notes
-* \uline{N. Janjušević}, J. Langner, *"UVNA-63 Application Note Calibration Standards and the SOLT Method"*, Mini-Circuits, 2019. [pdf](https://www.minicircuits.com/app/AN49-017.pdf)
-* \uline{N. Janjušević}, *"UVNA-63 Application Note Error Correction"*, Mini-Circuits, 2019. [pdf](https://www.minicircuits.com/app/AN49-016.pdf)
+
+

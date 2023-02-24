@@ -1,4 +1,4 @@
-@def title = "Home"
+@def title = "Ezgi's garden"
 @def date = Date(2021, 06, 05)
 
 
@@ -9,27 +9,25 @@
 <img 
     class="left" 
     id=profpic
-    src="assets/profilepic3.jpg"
+    src="assets/profile_ezgi.jpg"
     onmouseover="this.src='assets/profilepicQ.jpg';"
-    onmouseout="this.src='assets/profilepic3.jpg';"
+    onmouseout="this.src='assets/profile_ezgi.jpg';"
 >
 ~~~
 
-Hello. My name is Nikola Janjušević. I am a fourth year **PhD candidate in
+Hi, I'm Ezgi (she/they). I am a second year **PhD candidate in
 Electrical Engineering** at *New York University* under the advisory of
-Professor Yao Wang, [NYU VideoLab](https://wp.nyu.edu/videolab/). I
-received my Bachelors in Electrical Engineering from *The Cooper Union for Advancement of
-Science and Art* in 2019.
+Professor Elza Erkip, [CommIT Group at NYU](https://wp.nyu.edu/elza_erkip/). I
+received my MEng degree in Electrical Engineering from *Imperial College London* in 2021.
 
-My current interests are in *interpretable deep-learning* models for solving
-*inverse-problems* and low-level *computer-vision*/*image-processing* tasks. My
-background is in *signal-processing* and *non-smooth, convex optimization*.
-Outside of academia, I go biking and skateboarding with my friends.
+My current interests are in *learned (distributed) compression models* and multi-terminal source coding. My background is in *(information-theoretic) deep learning* and *statistical signal processing*. Outside of academia, I go hiking as well as try to expand my food and coffee palate.
+
+I'm always happy to chat about topics at the intersection of information theory and deep learning -- feel free to drop me an email at *ezgi(dot)ozyilkan(at)nyu(dot)edu*!
 @@
 @@
 
 ## Updates
-* July 2022: [*"Gabor is Enough"*](https://ieeexplore.ieee.org/document/9816313) (IVMSP22) up on IEEE Explore.
+* December 2022: [*"Learned Disentangled Latent Representations for Scalable Image Coding for Humans and Machines"*](https://arxiv.org/abs/2301.04183) was accepted to [DCC 2023](https://www.cs.brandeis.edu/~dcc/).
 
-* June 2022: Interning with Apple's Video Engineering team in Cupertino, CA this summer!
+* June 2022: Interning with InterDigital -- Emerging Technologies Lab in Los Altos, CA.
 
