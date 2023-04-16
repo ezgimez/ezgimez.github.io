@@ -25,7 +25,7 @@ I am always happy to chat about topics at the intersection of information theory
 @@
 
 ## Updates
-* April 2023: *"Learned Wyner--Ziv Compressors Recover Binning"* was accepted to [International Symposium of Information Theory (ISIT) 2023](https://isit2023.org/). Preprint will be available soon!
+* April 2023: *"Learned Wyner--Ziv Compressors Recover Binning"* was accepted to [International Symposium on Information Theory (ISIT) 2023](https://isit2023.org/). Preprint will be available soon!
 
 * December 2022: [*"Learned Disentangled Latent Representations for Scalable Image Coding for Humans and Machines"*](https://arxiv.org/abs/2301.04183) was accepted to [Data Compression Conference (DCC) 2023](https://www.cs.brandeis.edu/~dcc/).
 
