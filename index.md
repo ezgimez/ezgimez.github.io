@@ -25,9 +25,11 @@ I am always happy to chat about topics at the intersection of information theory
 @@
 
 ## Updates
-* December 2022: [*"Learned Disentangled Latent Representations for Scalable Image Coding for Humans and Machines"*](https://arxiv.org/abs/2301.04183) was accepted to [Data Compression Conference 2023](https://www.cs.brandeis.edu/~dcc/).
+* April 2023: *"Learned Wyner--Ziv Compressors Recover Binning"* was accepted to [International Symposium of Information Theory (ISIT) 2023](https://isit2023.org/). Preprint will be available soon!
 
-* August 2022: I presented a poster titled *Neural Distributed Source Coding* at [North American School of Information Theory 2022](https://nasit-2022.seas.ucla.edu/poster-symposium-session-assignments/).
+* December 2022: [*"Learned Disentangled Latent Representations for Scalable Image Coding for Humans and Machines"*](https://arxiv.org/abs/2301.04183) was accepted to [Data Compression Conference (DCC) 2023](https://www.cs.brandeis.edu/~dcc/).
+
+* August 2022: I presented a poster titled *Neural Distributed Source Coding* at [North American School of Information Theory (NASIT) 2022](https://nasit-2022.seas.ucla.edu/poster-symposium-session-assignments/).
 
 * June 2022: Interning at InterDigital -- Emerging Technologies Lab in Los Altos, CA.
 
