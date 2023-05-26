@@ -25,6 +25,8 @@ I am always happy to chat about topics at the intersection of information theory
 @@
 
 ## Updates
+* May 2023: I presented a poster titled *Neural Distributed Compressor Does Binning* at UC Berkeley Simons Institute's workshop on [*Information-Theoretic Methods for Trustworthy Machine Learning*](https://simons.berkeley.edu/talks/2023-05-24).
+
 * April 2023: *"Learned Wyner--Ziv Compressors Recover Binning"* was accepted to [International Symposium on Information Theory (ISIT) 2023](https://isit2023.org/). Preprint is available [here](https://arxiv.org/abs/2305.04380)!
 
 * December 2022: [*"Learned Disentangled Latent Representations for Scalable Image Coding for Humans and Machines"*](https://arxiv.org/abs/2301.04183) was accepted to [Data Compression Conference (DCC) 2023](https://www.cs.brandeis.edu/~dcc/).
