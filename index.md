@@ -22,7 +22,7 @@ My current interests are in *learned (distributed) compression models* and multi
 
 I am always happy to chat about topics at the intersection of information theory and deep learning -- feel free to drop me an email at *ezgi(dot)ozyilkan(at)nyu(dot)edu*!
 
-Useful links: [Google Scholar](https://scholar.google.com/citations?hl=en&user=MVZFqdQAAAAJ) | [LinkedIn](https://www.linkedin.com/in/ezgi-%C3%B6zy%C4%B1lkan-21b2ab191/) | [GitHub](https://github.com/ezgimez)
+Useful links: [Google Scholar](https://scholar.google.com/citations?hl=en&user=MVZFqdQAAAAJ) | [LinkedIn](https://www.linkedin.com/in/ezgi-%C3%B6zy%C4%B1lkan-21b2ab191/) | [arXiv](https://arxiv.org/a/ozyilkan_e_1.html) | [GitHub](https://github.com/ezgimez)
 @@
 @@
 
