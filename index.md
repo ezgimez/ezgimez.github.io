@@ -25,7 +25,7 @@ I am always happy to chat about topics at the intersection of information theory
 @@
 
 ## Updates
-* May 2023: I presented a poster titled *Neural Distributed Compressor Does Binning* at UC Berkeley Simons Institute's workshop on [*Information-Theoretic Methods for Trustworthy Machine Learning*](https://simons.berkeley.edu/talks/2023-05-24).
+* May 2023: I presented a [poster](/assets/Ozyilkan_Simons-Institute_Poster_May2023.pdf) titled *Neural Distributed Compressor Does Binning* at UC Berkeley Simons Institute's workshop on [*Information-Theoretic Methods for Trustworthy Machine Learning*](https://simons.berkeley.edu/talks/2023-05-24).
 
 * April 2023: *"Learned Wyner--Ziv Compressors Recover Binning"* was accepted to [International Symposium on Information Theory (ISIT) 2023](https://isit2023.org/). Preprint is available [here](https://arxiv.org/abs/2305.04380)!
 
