@@ -27,7 +27,10 @@ Useful links: [Google Scholar](https://scholar.google.com/citations?hl=en&user=M
 @@
 
 ## Updates
-* June 2023: Our recent ISIT'23 work was accepted as an _oral presentation_ to [Neural Compression Workshop @ ICML'23](https://neuralcompression.github.io/workshop23). 
+
+* July 2023: I was selected as the _best reviewer_ for the [Neural Compression Workshop @ ICML'23](https://neuralcompression.github.io/workshop23). 
+
+* July 2023: Our recent ISIT'23 work was accepted as an _oral presentation_ to [Neural Compression Workshop @ ICML'23](https://neuralcompression.github.io/workshop23). 
 
 * June 2023: I presented our work titled *"Learned Wyner--Ziv Compressors Recover Binning"* at [International Symposium on Information Theory (ISIT) 2023](https://isit2023.org/). Here are the [slides](/assets/Ozyilkan_ISIT2023_final.pdf)!
 
