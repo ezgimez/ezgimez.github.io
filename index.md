@@ -13,7 +13,7 @@
 >
 ~~~
 
-Hi, I am Ezgi (she/they). I am a second year **PhD candidate in
+Hi, I am Ezgi (she/they). I am a third year **PhD candidate in
 Electrical Engineering** at *New York University* under the advisory of
 Professor Elza Erkip, [CommIT Group at NYU](https://wp.nyu.edu/elza_erkip/). I
 received my (integrated) MEng degree in Electrical Engineering from *Imperial College London* in 2021.
