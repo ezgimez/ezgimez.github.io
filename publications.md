@@ -13,6 +13,8 @@
 
 * N. Mital\*, \uline{E. Ozyilkan*}, A. Gargani\*, D. Gunduz, *"Neural Distributed Image Compression using Common Information,"* IEEE Data Compression Conference (DCC), Salt Lake City, March 2022. [paper](https://ieeexplore.ieee.org/document/9810729), [slides](/assets/NDIC_Feb2022_Presentation_Ozyilkan.pdf).
 
+"*" denotes equal contribution.
+
 ## Workshop Papers
 * \uline{E. Ozyilkan}, J. Ballé, E. Erkip, *"Neural Distributed Compressor Does Binning,"* [Neural Compression Workshop @ ICML 2023](https://neuralcompression.github.io/workshop23), Honolulu, July 2023. [paper](https://openreview.net/forum?id=3Dq4FZJSga), [slides](/assets/Ozyilkan_ICML2023-workshop_final.pdf), [poster](Ozyilkan_Simons-Institute_Poster_May2023.pdf).
 
