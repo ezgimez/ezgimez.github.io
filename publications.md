@@ -17,6 +17,10 @@
 * \uline{E. Ozyilkan}, J. Ballé, E. Erkip, *"Neural Distributed Compressor Does Binning,"* [Neural Compression Workshop @ ICML 2023](https://neuralcompression.github.io/workshop23), Honolulu, July 2023. [paper](https://openreview.net/forum?id=3Dq4FZJSga), [slides](/assets/Ozyilkan_ICML2023-workshop_final.pdf), [poster](Ozyilkan_Simons-Institute_Poster_May2023.pdf).
 
 
+## Preprints
+* S. F. Yilmaz, \uline{E. Ozyilkan}, D. Gunduz, E. Erkip *"Distributed Deep Joint Source-Channel Coding with Decoder-Only Side Information,"* preprint. [paper](https://arxiv.org/abs/2310.04311)
+
+
 
 
 
