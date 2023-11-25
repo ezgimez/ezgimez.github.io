@@ -28,6 +28,8 @@ Useful links: [Google Scholar](https://scholar.google.com/citations?hl=en&user=M
 
 ## Updates
 
+* November 2023: Our proposal "Learn to Compress" has been accepted as a workshop at [ISIT 2024](https://2024.ieee-isit.org/)! The proposal was put forward by Aaron Wagner (Cornell University), Elza Erkip (NYU, and also my advisor :-) ) and myself. We will release more details about this workshop in early December.  
+
 * October 2023: The draft version of the journal version of our previous ISIT 2023 paper is available in [arXiv](https://arxiv.org/abs/2310.16961)! We demonstrate that the neural distributed compressor mimics the theoretical optimum for more exemplary sources :) 
 
 * July 2023: I presented our work titled [*"Neural Distributed Compressor Does Binning"*](https://openreview.net/forum?id=3Dq4FZJSga) at Neural Compression Workshop @ ICML'23. Here are the [slides](/assets/Ozyilkan_ICML2023-workshop_final.pdf).
