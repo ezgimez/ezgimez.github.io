@@ -28,7 +28,7 @@ Useful links: [Google Scholar](https://scholar.google.com/citations?hl=en&user=M
 
 ## Updates
 
-* November 2023: Our proposal ["Learn to Compress"](https://2024.ieee-isit.org/workshops) has been accepted as a workshop at [ISIT 2024](https://2024.ieee-isit.org/)! The proposal was put forward by Aaron Wagner (Cornell University), Elza Erkip (NYU, and also my advisor :-) ) and myself. We will release more details about this workshop in December.  
+* November 2023: Our proposal ["Learn to Compress"](https://2024.ieee-isit.org/workshops) has been accepted as a workshop at [ISIT 2024](https://2024.ieee-isit.org/). The proposal was put forward by Aaron Wagner (Cornell University), Elza Erkip (NYU) and myself. We will release more details about this workshop in December -- but meanwhile, feel free to check out our [workshop website](https://learn-to-compress-workshop-isit.github.io/)!  
 
 * October 2023: The draft version of the journal version of our previous ISIT 2023 paper is available in [arXiv](https://arxiv.org/abs/2310.16961)! We demonstrate that the neural distributed compressor mimics the theoretical optimum for more exemplary sources :) 
 
