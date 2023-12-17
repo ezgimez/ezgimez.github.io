@@ -22,7 +22,9 @@
 
 
 ## Preprints
-* S. F. Yilmaz, \uline{E. Ozyilkan}, D. Gunduz, E. Erkip *"Distributed Deep Joint Source-Channel Coding with Decoder-Only Side Information,"* preprint. [paper](https://arxiv.org/abs/2310.04311)
+* \uline{E. Ozyilkan},  J. Ballé, E. Erkip, *"Neural Distributed Compressor Discovers Binning,"*, under review for a journal. [paper](https://arxiv.org/abs/2310.16961)
+
+
 
 
 
