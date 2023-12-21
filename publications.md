@@ -22,7 +22,7 @@
 
 
 ## Preprints
-* \uline{E. Ozyilkan},  J. Ballé, E. Erkip, *"Neural Distributed Compressor Discovers Binning,"*, under review for a journal. [paper](https://arxiv.org/abs/2310.16961)
+* \uline{E. Ozyilkan},  J. Ballé, E. Erkip, *"Neural Distributed Compressor Discovers Binning,"*, journal submission under review. [preprint](https://arxiv.org/abs/2310.16961)
 
 
 
