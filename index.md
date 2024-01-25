@@ -28,6 +28,10 @@ Useful links: [Google Scholar](https://scholar.google.com/citations?hl=en&user=M
 
 ## Updates
 
+
+* January 2023: The full program for our 'Learn to Compress' workshop @ [ISIT'24](https://2024.ieee-isit.org/workshops)  (including keynote speakers and call for papers) is [out](https://learn-to-compress-workshop-isit.github.io/).
+
+
 * December 2023: *"Distributed Deep Joint Source-Channel Coding with Decoder-Only Side Information"*  was accepted to the inaugural [2024 IEEE International Conference on Machine Learning for Communication and Networking (ICMLCN)](https://icmlcn2024.ieee-icmlcn.org/)! Preprint is available [here](https://arxiv.org/abs/2310.04311).
 
 * November 2023: Our proposal ["Learn to Compress"](https://2024.ieee-isit.org/workshops) has been accepted as a workshop at [ISIT 2024](https://2024.ieee-isit.org/). The proposal was put forward by Aaron Wagner (Cornell University), Elza Erkip (NYU) and myself. We will release more details about this workshop in December -- but meanwhile, feel free to check out our [workshop website](https://learn-to-compress-workshop-isit.github.io/)!  
