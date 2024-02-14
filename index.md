@@ -28,7 +28,7 @@ Useful links: [Google Scholar](https://scholar.google.com/citations?hl=en&user=M
 
 ## Updates
 
-* February 2024: Our recent survey titled *"Distributed Compression in the Era of Machine Learning: A Review of Recent Advances"* will appear [at the Conference on Information Sciences and Systems (CISS'24)](https://ee-ciss.princeton.edu/) as an invited paper! Preprint available [here](https://arxiv.org/abs/2402.07997).
+* February 2024: Our recent survey titled *"Distributed Compression in the Era of Machine Learning: A Review of Recent Advances"* will appear [at the Conference on Information Sciences and Systems (CISS'24)](https://ee-ciss.princeton.edu/) as an invited paper! Preprint is available [here](https://arxiv.org/abs/2402.07997).
 
 
 * January 2024: The full program for our 'Learn to Compress' workshop @ [ISIT'24](https://2024.ieee-isit.org/workshops)  (including keynote speakers and call for papers) is [out](https://learn-to-compress-workshop-isit.github.io/).
