@@ -28,7 +28,7 @@ Useful links: [Google Scholar](https://scholar.google.com/citations?hl=en&user=M
 
 ## Updates
 
-* March 2024: In our recent [preprint](https://arxiv.org/abs/2403.08411), we extend our [neural distributed lossy compression framework](https://ieeexplore.ieee.org/document/10206542) for more robust/general settings -- for example, where side information may be absent. We demonstrate that our learned compressors mimic the theoretical optimum and yield interpretable results :) 
+* March 2024: In our recent [preprint](https://arxiv.org/abs/2403.08411), we extend our [neural distributed lossy compression framework](https://ieeexplore.ieee.org/document/10206542) to more robust/general compression settings -- for example, where side information may be absent. We demonstrate that our learned compressors mimic the theoretical optimum and yield interpretable results :) 
 
 * February 2024: Our recent survey titled *"Distributed Compression in the Era of Machine Learning: A Review of Recent Advances"* will appear [at the Conference on Information Sciences and Systems (CISS'24)](https://ee-ciss.princeton.edu/) as an invited paper! Preprint is available [here](https://arxiv.org/abs/2402.07997).
 
