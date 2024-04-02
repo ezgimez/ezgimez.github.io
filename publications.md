@@ -25,7 +25,9 @@
 
 
 ## Preprints
-* \uline{E. Ozyilkan},  J. Ballé, E. Erkip, *"Neural Distributed Compressor Discovers Binning,"*, journal submission under review. [preprint](https://arxiv.org/abs/2310.16961)
+
+* E. Tasci, \uline{E. Ozyilkan}, O. K. Ulger, E. Erkip, *"Robust Distributed Compression with Learned Heegard-Berger Scheme"*, submission under review. [preprint](https://arxiv.org/abs/2403.08411).
+* \uline{E. Ozyilkan},  J. Ballé, E. Erkip, *"Neural Distributed Compressor Discovers Binning,"*, journal submission under review. [preprint](https://arxiv.org/abs/2310.16961).
 
 
 
