@@ -28,7 +28,7 @@ Useful links: [Google Scholar](https://scholar.google.com/citations?hl=en&user=M
 
 ## Updates
 
-* April 2024: Our recent work titled [*"Neural Distributed Compressor Discovers Binning"*](https://arxiv.org/abs/2310.16961) got accepted to IEEE Journal on Selected Areas in Information Theory (JSAIT), part of the special Toby Berger issue. 
+* April 2024: Our recent work titled [*"Neural Distributed Compressor Discovers Binning"*](https://arxiv.org/abs/2310.16961) got accepted to IEEE Journal on Selected Areas in Information Theory (JSAIT), part of the special issue on Toby Berger. 
 
 
 * April 2024: Our recent [preprint](https://arxiv.org/abs/2403.08411) on robust distributed lossy compression was accepted to the [2024 IEEE International Symposium on Information Theory](https://2024.ieee-isit.org/) Workshops (ISIT'24 Wkshps)!
