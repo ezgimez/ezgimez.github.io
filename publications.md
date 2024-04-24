@@ -32,6 +32,6 @@
 
 ## Preprint
 
-* \uline{Ezgi Ozyilkan*}, Fabrizio Carpi\*, Siddharth Garg, Elza Erkip, *"Neural Compress-and-Forward for the Relay Channel"*, under review. [preprint](https://arxiv.org/abs/2404.14594).
+* \uline{Ezgi Ozyilkan*}, Fabrizio Carpi\*, Siddharth Garg, Elza Erkip, *"Neural Compress-and-Forward for the Relay Channel"*, conference submission under review. [preprint](https://arxiv.org/abs/2404.14594).
 
 "*" denotes equal contribution.
