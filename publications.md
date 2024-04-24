@@ -6,7 +6,7 @@
 ## Journal Papers
 
 
-* \uline{E. Ozyilkan},  J. Ballé, E. Erkip, *"Neural Distributed Compressor Discovers Binning"*, to appear at IEEE Journal on Selected Areas in Information Theory (JSAIT), part of the special Toby Berger issue. [preprint](https://arxiv.org/abs/2310.16961).
+* \uline{E. Ozyilkan},  J. Ballé, E. Erkip, *"Neural Distributed Compressor Discovers Binning"*, to appear at IEEE Journal on Selected Areas in Information Theory (JSAIT), part of the special issue on Toby Berger. [preprint](https://arxiv.org/abs/2310.16961).
 
 
 ## Conference Papers
