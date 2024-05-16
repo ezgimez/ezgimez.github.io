@@ -28,6 +28,8 @@ Useful links: [Google Scholar](https://scholar.google.com/citations?hl=en&user=M
 
 ## Updates
 
+* May 2024: In our recent preprints ([[1]](https://arxiv.org/abs/2404.14594) and [[2]](https://arxiv.org/abs/2405.09534v1)), we propose neural "compress-and-forward" (CF) schemes for the relay channel, that leverage my previous neural distributed compression work. Our proposed neural CF operates closely to the maximum achievable rate in a "primitive relay channel" and also yields interpretable results :) 
+
 * April 2024: Our recent work titled [*"Neural Distributed Compressor Discovers Binning"*](https://arxiv.org/abs/2310.16961) got accepted to IEEE Journal on Selected Areas in Information Theory (JSAIT), part of the special issue on Toby Berger. 
 
 
