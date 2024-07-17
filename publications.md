@@ -11,6 +11,8 @@
 
 ## Conference Papers
 
+* \uline{Ezgi Ozyilkan*}, Fabrizio Carpi\*, Siddharth Garg, Elza Erkip, *"Neural Compress-and-Forward for the Relay Channel"*, to appear at IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC), Lucca, September 2024. [preprint](https://arxiv.org/abs/2404.14594).
+
 * \uline{E. Ozyilkan}, E. Erkip *"Distributed Compression in the Era of Machine Learning: A Review of Recent Advances"*, 58th Annual Conference on Information Sciences and Systems (CISS) **as an invited paper**, Princeton, March 2024. [preprint](https://arxiv.org/abs/2402.07997).
 
 * S. F. Yilmaz, \uline{E. Ozyilkan}, D. Gunduz, E. Erkip *"Distributed Deep Joint Source-Channel Coding with Decoder-Only Side Information"*, IEEE International Conference on Machine Learning for Communication and Networking (ICMLCN), Stockholm, May 2024. [preprint](https://arxiv.org/abs/2310.04311).
@@ -25,7 +27,7 @@
 
 
 ## Workshop Papers
-* \uline{Ezgi Ozyilkan*}, Fabrizio Carpi\*, Siddharth Garg, Elza Erkip, *"Neural Compress-and-Forward for the Relay Channel"*, to appear at IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC), Lucca, September 2024. [preprint](https://arxiv.org/abs/2404.14594).
+
 
 * E. Tasci, \uline{E. Ozyilkan}, O. K. Ulger, E. Erkip, *"Robust Distributed Compression with Learned Heegard-Berger Scheme"*, to appear at IEEE International Symposium on Information Theory Workshops (ISIT Wkshps), Athens, July 2024. [preprint](https://arxiv.org/abs/2403.08411).
 
