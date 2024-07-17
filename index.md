@@ -9,7 +9,7 @@
 <img 
     class="left" 
     id=profpic
-    src="assets/profile_ezgi.jpg"
+    src="assets/pic_ezgi.jpeg"
 >
 ~~~
 
@@ -18,15 +18,17 @@ Electrical Engineering** at *New York University* under the advisory of
 Professor Elza Erkip, [CommIT Group at NYU](https://wp.nyu.edu/elza_erkip/). I
 received my (integrated) MEng degree in Electrical Engineering from *Imperial College London* in 2021.
 
-My current interests are in (unconventional) **learned compression models**, *quantization* and *representation learning*. My background is in *(information-theoretic) deep learning* and *statistical signal processing*. Outside of academia, I hike as well as try to expand my food and coffee palate.
+My current interests are mainly in (unconventional) **learned compression models**, *quantization* and *representation learning*. My background is in *(information-theoretic) deep learning* and *statistical signal processing*. Outside of academia, I hike as well as try to expand my food and coffee palate.
 
-I am always happy to chat about topics at the intersection of information theory and deep learning -- feel free to drop me an email at *ezgi(dot)ozyilkan(at)nyu(dot)edu*!
+I am always happy to chat about topics at the intersection of information theory and deep/machine learning -- feel free to drop me an email at *ezgi(dot)ozyilkan(at)nyu(dot)edu*!
 
 Useful links: [Google Scholar](https://scholar.google.com/citations?hl=en&user=MVZFqdQAAAAJ) | [LinkedIn](https://www.linkedin.com/in/ezgi-%C3%B6zy%C4%B1lkan-21b2ab191/) | [arXiv](https://arxiv.org/a/ozyilkan_e_1.html) | [GitHub](https://github.com/ezgimez)
 @@
 @@
 
 ## Updates
+
+
 
 * July 2024: Our recent work titled [*Neural Compress-and-Forward for the Relay Channel*](https://arxiv.org/abs/2404.14594) got accepted to [IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC) 2024](https://spawc2024.org/)!
 
