@@ -11,7 +11,7 @@
 
 ## Conference Papers
 
-* \uline{Ezgi Ozyilkan*}, Fabrizio Carpi\*, Siddharth Garg, Elza Erkip, *"Neural Compress-and-Forward for the Relay Channel"*, to appear at IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC), Lucca, September 2024. [preprint](https://arxiv.org/abs/2404.14594).
+* \uline{E. Ozyilkan*}, F. Carpi\*, S. Garg, E. Erkip, *"Neural Compress-and-Forward for the Relay Channel"*, to appear at IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC), Lucca, September 2024. [preprint](https://arxiv.org/abs/2404.14594).
 
 * \uline{E. Ozyilkan}, E. Erkip *"Distributed Compression in the Era of Machine Learning: A Review of Recent Advances"*, 58th Annual Conference on Information Sciences and Systems (CISS) **as an invited paper**, Princeton, March 2024. [preprint](https://arxiv.org/abs/2402.07997).
 
@@ -36,7 +36,7 @@
 
 ## Preprint
 
-* \uline{Ezgi Ozyilkan*}, Fabrizio Carpi\*, Siddharth Garg, Elza Erkip, *"Learning-Based Compress-and-Forward Schemes for the Relay Channel"*, journal submission under review. [preprint](https://arxiv.org/abs/2405.09534v1).
+* \uline{E. Ozyilkan*}, F. Carpi\*, S. Garg, E. Erkip, *"Learning-Based Compress-and-Forward Schemes for the Relay Channel"*, journal submission under review. [preprint](https://arxiv.org/abs/2405.09534v1).
 
 
 "*" denotes equal contribution.
