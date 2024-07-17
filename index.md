@@ -28,6 +28,7 @@ Useful links: [Google Scholar](https://scholar.google.com/citations?hl=en&user=M
 
 ## Updates
 
+* July 2024: Our [workshop proposal](https://neuralcompression.github.io/workshop24) (compression + machine learning) for NeurIPS 2024 has been accepted! Details will follow shortly :) 
 
 
 * July 2024: Our recent work titled [*Neural Compress-and-Forward for the Relay Channel*](https://arxiv.org/abs/2404.14594) got accepted to [IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC) 2024](https://spawc2024.org/)!
