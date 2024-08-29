@@ -15,7 +15,7 @@
 
 * S. F. Yilmaz, \uline{E. Ozyilkan}, D. Gunduz, E. Erkip *"Distributed Deep Joint Source-Channel Coding with Decoder-Only Side Information"*, IEEE International Conference on Machine Learning for Communication and Networking (ICMLCN), Stockholm, May 2024. [preprint](https://arxiv.org/abs/2310.04311).
 
-* \uline{E. Ozyilkan}, E. Erkip *"Distributed Compression in the Era of Machine Learning: A Review of Recent Advances"*, 58th Annual Conference on Information Sciences and Systems (CISS) **as an invited paper**, Princeton, March 2024. [preprint](https://arxiv.org/abs/2402.07997).t
+* \uline{E. Ozyilkan}, E. Erkip *"Distributed Compression in the Era of Machine Learning: A Review of Recent Advances"*, 58th Annual Conference on Information Sciences and Systems (CISS) **as an invited paper**, Princeton, March 2024. [preprint](https://arxiv.org/abs/2402.07997).
 
 * \uline{E. Ozyilkan}, J. Ballé, E. Erkip, *"Learned Wyner-Ziv Compressors Recover Binning"*, IEEE International Symposium on Information Theory (ISIT), Taipei, June 2023. [paper](https://ieeexplore.ieee.org/document/10206542), [slides](/assets/Ozyilkan_ISIT2023_final.pdf).
 
