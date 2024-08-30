@@ -13,12 +13,12 @@
 >
 ~~~
 
-Hi, I am Ezgi (she/they). I am a third year **PhD candidate in
+Hi, I am Ezgi (she/they). I am a **PhD candidate in
 Electrical Engineering** at *New York University* under the advisory of
 Professor Elza Erkip, [CommIT Group at NYU](https://wp.nyu.edu/elza_erkip/). I
 received my (integrated) MEng degree in Electrical Engineering from *Imperial College London* in 2021.
 
-My current interests are mainly in (unconventional) **learned compression models**, *quantization* and *representation learning*. My background is in *(information-theoretic) deep learning* and *statistical signal processing*. Outside of academia, I hike as well as try to expand my food and coffee palate.
+My current interests are mainly in (unconventional) **learned compression models**, *quantization* and *representation learning*. My background is in *(information-theoretic) deep learning* and *statistical signal processing*. When I am not busy with research, I hike as well as try to expand my food and coffee palate.
 
 I am always happy to chat about topics at the intersection of information theory and deep/machine learning -- feel free to drop me an email at *ezgi(dot)ozyilkan(at)nyu(dot)edu*!
 
