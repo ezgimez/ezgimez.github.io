@@ -3,19 +3,21 @@
 
 # Publications
 
+Find my arXiv profile [here](https://arxiv.org/search/cs?searchtype=author&query=Ozyilkan,+E). 
+
 ## Journal Papers
 
 
-* \uline{E. Ozyilkan},  J. Ballé, E. Erkip, *"Neural Distributed Compressor Discovers Binning"*, IEEE Journal on Selected Areas in Information Theory (JSAIT), part of the special issue on Toby Berger. [preprint](https://arxiv.org/abs/2310.16961), [IEEE Xplore](https://ieeexplore.ieee.org/document/10508220).
+* \uline{E. Ozyilkan},  J. Ballé, E. Erkip, *"Neural Distributed Compressor Discovers Binning"*, IEEE Journal on Selected Areas in Information Theory (JSAIT), part of the special issue on Toby Berger. [paper](https://ieeexplore.ieee.org/document/10508220).
 
 
 ## Conference Papers
 
-* \uline{E. Ozyilkan*}, F. Carpi\*, S. Garg, E. Erkip, *"Neural Compress-and-Forward for the Relay Channel"*, to appear at IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC), Lucca, September 2024. [preprint](https://arxiv.org/abs/2404.14594).
+* \uline{E. Ozyilkan*}, F. Carpi\*, S. Garg, E. Erkip, *"Neural Compress-and-Forward for the Relay Channel"*, to appear at IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC), Lucca, September 2024. [preprint](https://arxiv.org/abs/2404.14594), [poster](/assets/Neural_Compress-and-Forward_SPAWC2024_poster.pdf).
 
-* S. F. Yilmaz, \uline{E. Ozyilkan}, D. Gunduz, E. Erkip *"Distributed Deep Joint Source-Channel Coding with Decoder-Only Side Information"*, IEEE International Conference on Machine Learning for Communication and Networking (ICMLCN), Stockholm, May 2024. [preprint](https://arxiv.org/abs/2310.04311).
+* S. F. Yilmaz, \uline{E. Ozyilkan}, D. Gunduz, E. Erkip *"Distributed Deep Joint Source-Channel Coding with Decoder-Only Side Information"*, IEEE International Conference on Machine Learning for Communication and Networking (ICMLCN), Stockholm, May 2024. [paper](https://ieeexplore.ieee.org/document/10625214).
 
-* \uline{E. Ozyilkan}, E. Erkip *"Distributed Compression in the Era of Machine Learning: A Review of Recent Advances"*, 58th Annual Conference on Information Sciences and Systems (CISS) **as an invited paper**, Princeton, March 2024. [preprint](https://arxiv.org/abs/2402.07997).
+* \uline{E. Ozyilkan}, E. Erkip *"Distributed Compression in the Era of Machine Learning: A Review of Recent Advances"*, 58th Annual Conference on Information Sciences and Systems (CISS) **as an invited paper**, Princeton, March 2024. [paper](https://ieeexplore.ieee.org/document/10480175).
 
 * \uline{E. Ozyilkan}, J. Ballé, E. Erkip, *"Learned Wyner-Ziv Compressors Recover Binning"*, IEEE International Symposium on Information Theory (ISIT), Taipei, June 2023. [paper](https://ieeexplore.ieee.org/document/10206542), [slides](/assets/Ozyilkan_ISIT2023_final.pdf).
 
@@ -29,7 +31,7 @@
 ## Workshop Papers
 
 
-* E. Tasci, \uline{E. Ozyilkan}, O. K. Ulger, E. Erkip, *"Robust Distributed Compression with Learned Heegard-Berger Scheme"*, to appear at IEEE International Symposium on Information Theory Workshops (ISIT Wkshps), Athens, July 2024. [preprint](https://arxiv.org/abs/2403.08411), [poster](/assets/learned_HB_LCW@ISIT'24.pdf).
+* E. Tasci, \uline{E. Ozyilkan}, O. K. Ulger, E. Erkip, *"Robust Distributed Compression with Learned Heegard-Berger Scheme"*, to appear at IEEE International Symposium on Information Theory Workshops (ISIT Wkshps), Athens, July 2024. [paper](https://ieeexplore.ieee.org/document/10591775), [poster](/assets/learned_HB_LCW@ISIT'24.pdf).
 
 * \uline{E. Ozyilkan}, J. Ballé, E. Erkip, *"Neural Distributed Compressor Does Binning"*, [Neural Compression Workshop @ ICML 2023](https://neuralcompression.github.io/workshop23), Honolulu, July 2023. **Selected for 1 of 4 contributed/spotlight talks.** [paper](https://openreview.net/forum?id=3Dq4FZJSga), [slides](/assets/Ozyilkan_ICML2023-workshop_final.pdf), [poster](Ozyilkan_Simons-Institute_Poster_May2023.pdf). 
 
