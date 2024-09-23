@@ -18,15 +18,17 @@ Electrical Engineering** at *New York University* under the advisory of
 Professor Elza Erkip, [CommIT Group at NYU](https://wp.nyu.edu/elza_erkip/). I
 received my (integrated) MEng degree in Electrical Engineering from *Imperial College London* in 2021.
 
-My current interests are mainly in (unconventional) **learned compression models**, *quantization* and *representation learning*. My background is in *(information-theoretic) deep learning* and *statistical signal processing*. When I am not busy with research, I hike as well as try to expand my food and coffee palate.
+My current interests are mainly in (unconventional) **learned compression models**, *quantization* and *representation learning*. My background is in *(information theoretic) deep learning* and *statistical signal processing*. When I am not busy with research, I hike as well as try to expand my food and coffee palate.
 
 I am always happy to chat about topics at the intersection of information theory and deep/machine learning -- feel free to drop me an email at *ezgi(dot)ozyilkan(at)nyu(dot)edu*!
 
-Useful links: [Google Scholar](https://scholar.google.com/citations?hl=en&user=MVZFqdQAAAAJ) | [LinkedIn](https://www.linkedin.com/in/ezgi-%C3%B6zy%C4%B1lkan-21b2ab191/) | [arXiv](https://arxiv.org/a/ozyilkan_e_1.html) | [GitHub](https://github.com/ezgimez)
+Useful links: [Google Scholar](https://scholar.google.com/citations?hl=en&user=MVZFqdQAAAAJ) | [LinkedIn](https://www.linkedin.com/in/ezgi-ozyilkan-21b2ab191/) | [arXiv](https://arxiv.org/a/ozyilkan_e_1.html) | [GitHub](https://github.com/ezgimez)
 @@
 @@
 
 ## Updates
+
+* September 2024: I presented our work titled [*Neural Compress-and-Forward for the Relay Channel*](https://arxiv.org/abs/2404.14594) at [SPAWC 2024](https://spawc2024.org/), in the beautiful Italian city of Lucca! Here is the [poster](assets/Neural_Compress-and-Forward_SPAWC2024_poster.pdf). 
 
 * July 2024: Our [workshop proposal](https://neuralcompression.github.io/workshop24) (compression + machine learning) for NeurIPS 2024 has been accepted! Details will follow shortly :) 
 
