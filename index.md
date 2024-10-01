@@ -18,13 +18,15 @@ Electrical Engineering** at *New York University* under the advisory of
 Professor Elza Erkip, [CommIT Group at NYU](https://wp.nyu.edu/elza_erkip/). I
 received my (integrated) MEng degree in Electrical Engineering from *Imperial College London* in 2021.
 
-My current interests are mainly in (unconventional) **learned compression models**, *quantization* and *representation learning*. My background is in *(information theoretic) deep learning* and *statistical signal processing*. When I am not busy with research, I hike as well as try to expand my food and coffee palate.
+My current interests are mainly in (unconventional) **learned compression** and **communication models**, *quantization*, *signal processing* and *representation learning*, with an emphasis on distributed setup. My background is in *information theory* , *compression* and *(tele)communications*. When I am not busy with research, I hike as well as try to expand my food and coffee palate.
 
 I am always happy to chat about topics at the intersection of information theory and deep/machine learning -- feel free to drop me an email at *ezgi(dot)ozyilkan(at)nyu(dot)edu*!
 
 Useful links: [Google Scholar](https://scholar.google.com/citations?hl=en&user=MVZFqdQAAAAJ) | [LinkedIn](https://www.linkedin.com/in/ezgi-ozyilkan-21b2ab191/) | [arXiv](https://arxiv.org/a/ozyilkan_e_1.html) | [GitHub](https://github.com/ezgimez)
 @@
 @@
+
+**I'm actively looking for a research internship role for summer 2025. Feel free to reach out if you see a fit!**
 
 ## Updates
 
