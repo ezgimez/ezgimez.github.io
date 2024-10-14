@@ -7,13 +7,15 @@ Find my arXiv profile [here](https://arxiv.org/search/cs?searchtype=author&query
 
 ## Journal Papers
 
+* \uline{E. Ozyilkan*}, F. Carpi\*, S. Garg, E. Erkip, *"Learning-Based Compress-and-Forward Schemes for the Relay Channel"*, will appear on IEEE Journal on Selected Areas in Communications, part of [the special issue](https://www.comsoc.org/publications/journals/ieee-jsac/cfp/rethinking-information-identification-representation-and) on new approaches to data compression . [preprint](https://arxiv.org/abs/2405.09534v1).
+
 
 * \uline{E. Ozyilkan},  J. Ballé, E. Erkip, *"Neural Distributed Compressor Discovers Binning"*, IEEE Journal on Selected Areas in Information Theory (JSAIT), part of the special issue on Toby Berger. [paper](https://ieeexplore.ieee.org/document/10508220).
 
 
 ## Conference Papers
 
-* \uline{E. Ozyilkan*}, F. Carpi\*, S. Garg, E. Erkip, *"Neural Compress-and-Forward for the Relay Channel"*, to appear at IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC), Lucca, September 2024. [preprint](https://arxiv.org/abs/2404.14594), [poster](/assets/Neural_Compress-and-Forward_SPAWC2024_poster.pdf).
+* \uline{E. Ozyilkan*}, F. Carpi\*, S. Garg, E. Erkip, *"Neural Compress-and-Forward for the Relay Channel"*, IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC), Lucca, September 2024. [paper](https://ieeexplore.ieee.org/document/10694419), [poster](/assets/Neural_Compress-and-Forward_SPAWC2024_poster.pdf).
 
 * S. F. Yilmaz, \uline{E. Ozyilkan}, D. Gunduz, E. Erkip *"Distributed Deep Joint Source-Channel Coding with Decoder-Only Side Information"*, IEEE International Conference on Machine Learning for Communication and Networking (ICMLCN), Stockholm, May 2024. [paper](https://ieeexplore.ieee.org/document/10625214).
 
@@ -36,9 +38,8 @@ Find my arXiv profile [here](https://arxiv.org/search/cs?searchtype=author&query
 * \uline{E. Ozyilkan}, J. Ballé, E. Erkip, *"Neural Distributed Compressor Does Binning"*, [Neural Compression Workshop @ ICML 2023](https://neuralcompression.github.io/workshop23), Honolulu, July 2023. **Selected for 1 of 4 contributed/spotlight talks.** [paper](https://openreview.net/forum?id=3Dq4FZJSga), [slides](/assets/Ozyilkan_ICML2023-workshop_final.pdf), [poster](Ozyilkan_Simons-Institute_Poster_May2023.pdf). 
 
 
-## Preprint
 
-* \uline{E. Ozyilkan*}, F. Carpi\*, S. Garg, E. Erkip, *"Learning-Based Compress-and-Forward Schemes for the Relay Channel"*, journal submission under review. [preprint](https://arxiv.org/abs/2405.09534v1).
+
 
 
 "*" denotes equal contribution.
