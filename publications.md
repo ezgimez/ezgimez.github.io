@@ -7,7 +7,7 @@ Find my arXiv profile [here](https://arxiv.org/search/cs?searchtype=author&query
 
 ## Journal Papers
 
-* \uline{E. Ozyilkan*}, F. Carpi\*, S. Garg, E. Erkip, *"Learning-Based Compress-and-Forward Schemes for the Relay Channel"*, will appear on IEEE Journal on Selected Areas in Communications, part of [the special issue](https://www.comsoc.org/publications/journals/ieee-jsac/cfp/rethinking-information-identification-representation-and) on new approaches to data compression . [preprint](https://arxiv.org/abs/2405.09534v1).
+* \uline{E. Ozyilkan*}, F. Carpi\*, S. Garg, E. Erkip, *"Learning-Based Compress-and-Forward Schemes for the Relay Channel"*, will appear at IEEE Journal on Selected Areas in Communications, part of [the special issue](https://www.comsoc.org/publications/journals/ieee-jsac/cfp/rethinking-information-identification-representation-and) on new approaches to data compression . [preprint](https://arxiv.org/abs/2405.09534v1).
 
 
 * \uline{E. Ozyilkan},  J. Ballé, E. Erkip, *"Neural Distributed Compressor Discovers Binning"*, IEEE Journal on Selected Areas in Information Theory (JSAIT), part of the special issue on Toby Berger. [paper](https://ieeexplore.ieee.org/document/10508220).
