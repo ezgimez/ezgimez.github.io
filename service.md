@@ -4,7 +4,7 @@
 
 **Co-organizer** of the NeurIPS 2024 [*Machine Learning and Compression Workshop*](https://neuralcompression.github.io/workshop24).
 
-**Lead organizer** of the IEEE ISIT 2024 [*Learn to Compress" Workshop*](https://learn-to-compress-workshop-isit.github.io/).
+**Lead organizer** of the IEEE ISIT 2024 [*"Learn to Compress" Workshop*](https://learn-to-compress-workshop-isit.github.io/).
 
 Member of the [*IEEE IT Society Student and Outreach Subcommittee*](https://www.itsoc.org/people/committees/student) since 2024. 
 
