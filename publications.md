@@ -35,7 +35,7 @@ Find my arXiv profile [here](https://arxiv.org/search/cs?searchtype=author&query
 
 * E. Tasci, \uline{E. Ozyilkan}, O. K. Ulger, E. Erkip, *"Robust Distributed Compression with Learned Heegard-Berger Scheme"*, to appear at IEEE International Symposium on Information Theory Workshops (ISIT Wkshps), Athens, July 2024. [paper](https://ieeexplore.ieee.org/document/10591775), [poster](/assets/learned_HB_LCW@ISIT'24.pdf).
 
-* \uline{E. Ozyilkan}, J. Ballé, E. Erkip, *"Neural Distributed Compressor Does Binning"*, [Neural Compression Workshop @ ICML 2023](https://neuralcompression.github.io/workshop23), Honolulu, July 2023. **Selected for 1 of 4 contributed/spotlight talks.** [paper](https://openreview.net/forum?id=3Dq4FZJSga), [slides](/assets/Ozyilkan_ICML2023-workshop_final.pdf), [poster](Ozyilkan_Simons-Institute_Poster_May2023.pdf). 
+* \uline{E. Ozyilkan}, J. Ballé, E. Erkip, *"Neural Distributed Compressor Does Binning"*, [Neural Compression Workshop @ ICML 2023](https://neuralcompression.github.io/workshop23), Honolulu, July 2023. **Selected for 1 of 4 contributed/spotlight talks.** [paper](https://openreview.net/forum?id=3Dq4FZJSga), [slides](/assets/Ozyilkan_ICML2023-workshop_final.pdf), [poster](/assets/Ozyilkan_Simons-Institute_Poster_May2023.pdf). 
 
 
 
