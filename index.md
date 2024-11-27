@@ -28,6 +28,8 @@ Useful links: [Google Scholar](https://scholar.google.com/citations?hl=en&user=M
 
 ## Updates
 
+* November 2024: In our recent [NeurIPS'24 workshop paper](https://openreview.net/forum?id=qcM1fkFj3Y), we discuss a few overarching *failure modes* of some popular class of neural compressors -- that is, their difficulty in learning discontinuous functions.  
+
 * October 2024: Our recent preprint titled [*Learning-Based Compress-and-Forward Schemes for the Relay Channel*](https://arxiv.org/abs/2405.09534v1) got accepted to [IEEE Journal on Communications (JSAC)](https://www.comsoc.org/publications/journals/ieee-jsac) and will appear, as part of [this special issue](https://www.comsoc.org/publications/journals/ieee-jsac/cfp/rethinking-information-identification-representation-and), in 2025!
 
 * September 2024: I presented our work titled [*Neural Compress-and-Forward for the Relay Channel*](https://arxiv.org/abs/2404.14594) at [SPAWC 2024](https://spawc2024.org/), in the beautiful Italian city of Lucca! Here is the [poster](assets/Neural_Compress-and-Forward_SPAWC2024_poster.pdf). 
