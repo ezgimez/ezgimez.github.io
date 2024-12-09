@@ -24,7 +24,6 @@ Useful links: [Google Scholar](https://scholar.google.com/citations?hl=en&user=M
 @@
 @@
 
-**I'm actively looking for a research internship role for summer 2025. Feel free to reach out if you see a fit!**
 
 ## Updates
 
