@@ -27,6 +27,8 @@ Useful links: [Google Scholar](https://scholar.google.com/citations?hl=en&user=M
 
 ## Updates
 
+* January 2025: Our workshop proposal titled *"Learn to Compress and Compress to Learn"* for [2025 IEEE International Symposium on Information Theory](https://2025.ieee-isit.org/) has been accepted! 
+
 * November 2024: In our recent [NeurIPS'24 workshop paper](https://openreview.net/forum?id=qcM1fkFj3Y), we discuss a few overarching *failure modes* of some popular class of neural compressors -- that is, their difficulty in learning discontinuous functions.  
 
 * October 2024: Our recent preprint titled [*Learning-Based Compress-and-Forward Schemes for the Relay Channel*](https://arxiv.org/abs/2405.09534v1) got accepted to [IEEE Journal on Communications (JSAC)](https://www.comsoc.org/publications/journals/ieee-jsac) and will appear, as part of [this special issue](https://www.comsoc.org/publications/journals/ieee-jsac/cfp/rethinking-information-identification-representation-and), in 2025!
@@ -75,9 +77,4 @@ Useful links: [Google Scholar](https://scholar.google.com/citations?hl=en&user=M
 
 * April 2023: *"Learned Wyner--Ziv Compressors Recover Binning"* was accepted to [International Symposium on Information Theory (ISIT) 2023](https://isit2023.org/). Preprint is available [here](https://arxiv.org/abs/2305.04380)!
 
-* December 2022: [*"Learned Disentangled Latent Representations for Scalable Image Coding for Humans and Machines"*](https://arxiv.org/abs/2301.04183) was accepted to [Data Compression Conference (DCC) 2023](https://www.cs.brandeis.edu/~dcc/).
-
-* August 2022: I presented a poster titled *Neural Distributed Source Coding* at [North American School of Information Theory (NASIT) 2022](https://nasit-2022.seas.ucla.edu/poster-symposium-session-assignments/).
-
-* June 2022: Interning at InterDigital -- Emerging Technologies Lab in Los Altos, CA.
 
