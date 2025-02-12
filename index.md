@@ -16,7 +16,8 @@
 Hi, I am Ezgi (she/they). I am a **PhD candidate in
 Electrical and Computer Engineering** at *New York University* where I'm advised by [Elza Erkip](https://wp.nyu.edu/elza_erkip/). I hold an (integrated) MEng degree in Electrical Electronics Engineering from *Imperial College London*. Recent collaborators include [Jona Ballé](https://balle.io/) and [Aaron B. Wagner](https://www.ece.cornell.edu/faculty-directory/aaron-b-wagner) and [Deniz Gündüz](https://profiles.imperial.ac.uk/d.gunduz). 
 
-I am a collaborative researcher and enjoy working with people from diverse backgrounds. My current research is driven by a passion for **connecting theory and practice** in compression and (tele)communication problems, particularly in distributed scenarios. I leverage tools from **deep learning, signal processing, data compression and information theory**, *yielding interpretable results*. When I am not busy with research, I enjoy hiking and expanding my food and coffee ☕ palate.
+I am a collaborative researcher and enjoy working with people from diverse backgrounds. My current research is driven by a passion for **connecting theory and practice** in data compression and communication problems, particularly in distributed scenarios. I leverage tools from **learning, signal processing, compression and information theory**, *yielding interpretable results*. When I am not busy with research, I enjoy hiking and expanding my food and coffee ☕ palate.
+
 
 I am always happy to chat about topics at the intersection of information theory and deep/machine learning -- feel free to drop me an email at *ezgi(dot)ozyilkan(at)nyu(dot)edu*!
 
