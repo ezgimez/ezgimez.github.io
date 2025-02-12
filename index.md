@@ -27,7 +27,7 @@ Useful links: [Google Scholar](https://scholar.google.com/citations?hl=en&user=M
 
 ## Updates
 
-* January 2025: Our workshop proposal titled *"Learn to Compress and Compress to Learn"* for [2025 IEEE International Symposium on Information Theory](https://2025.ieee-isit.org/) has been accepted! 
+* January 2025: Our workshop proposal titled *"Learn to Compress and Compress to Learn"* for [2025 IEEE International Symposium on Information Theory](https://2025.ieee-isit.org/) has been accepted! Check out our workshop website [here](https://learn-to-compress-workshop-isit.github.io/).
 
 * November 2024: In our recent [NeurIPS'24 workshop paper](https://openreview.net/forum?id=qcM1fkFj3Y), we discuss a few overarching *failure modes* of some popular class of neural compressors -- that is, their difficulty in learning discontinuous functions.  
 
@@ -52,12 +52,12 @@ Useful links: [Google Scholar](https://scholar.google.com/citations?hl=en&user=M
 * February 2024: Our recent survey titled *"Distributed Compression in the Era of Machine Learning: A Review of Recent Advances"* will appear [at the Conference on Information Sciences and Systems (CISS'24)](https://ee-ciss.princeton.edu/) as an invited paper! Preprint is available [here](https://arxiv.org/abs/2402.07997).
 
 
-* January 2024: The full program for our 'Learn to Compress' workshop @ [ISIT'24](https://2024.ieee-isit.org/workshops)  (including keynote speakers and call for papers) is [out](https://learn-to-compress-workshop-isit.github.io/).
+* January 2024: The full program for our 'Learn to Compress' workshop @ [ISIT'24](https://2024.ieee-isit.org/workshops)  (including keynote speakers and call for papers) is [out](https://learn-to-compress-workshop-isit.github.io/2024/about/).
 
 
 * December 2023: *"Distributed Deep Joint Source-Channel Coding with Decoder-Only Side Information"*  was accepted to the inaugural [2024 IEEE International Conference on Machine Learning for Communication and Networking (ICMLCN)](https://icmlcn2024.ieee-icmlcn.org/)! Preprint is available [here](https://arxiv.org/abs/2310.04311).
 
-* November 2023: Our proposal ["Learn to Compress"](https://2024.ieee-isit.org/workshops) has been accepted as a workshop at [ISIT 2024](https://2024.ieee-isit.org/). The proposal was put forward by [Aaron Wagner (Cornell University)](https://www.ece.cornell.edu/faculty-directory/aaron-b-wagner), [Elza Erkip (NYU)](https://wp.nyu.edu/elza_erkip/) and myself. We will release more details about this workshop in December -- but meanwhile, feel free to check out our [workshop website](https://learn-to-compress-workshop-isit.github.io/)!  
+* November 2023: Our proposal ["Learn to Compress"](https://2024.ieee-isit.org/workshops) has been accepted as a workshop at [ISIT 2024](https://2024.ieee-isit.org/). The proposal was put forward by [Aaron Wagner (Cornell University)](https://www.ece.cornell.edu/faculty-directory/aaron-b-wagner), [Elza Erkip (NYU)](https://wp.nyu.edu/elza_erkip/) and myself. We will release more details about this workshop in December -- but meanwhile, feel free to check out our [workshop website](https://learn-to-compress-workshop-isit.github.io/2024/about/)!  
 
 * October 2023: The draft version of the journal version of our previous ISIT 2023 paper is available in [arXiv](https://arxiv.org/abs/2310.16961)! We demonstrate that the neural distributed compressor mimics the theoretical optimum for more exemplary sources :) 
 
