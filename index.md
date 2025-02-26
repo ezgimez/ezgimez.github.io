@@ -29,7 +29,7 @@ Useful links: [Google Scholar](https://scholar.google.com/citations?hl=en&user=M
 ## Updates
 
 
-* January 2025: Excited to be joining **Apple** as an *ML/CV Research Intern* this summer in Cupertino!
+* February 2025: Excited to be joining **Apple** as an *ML/CV Research Intern* this summer in Cupertino!
 
 * January 2025: Our workshop proposal titled *"Learn to Compress and Compress to Learn"* for [2025 IEEE International Symposium on Information Theory](https://2025.ieee-isit.org/) has been accepted! Check out our workshop website [here](https://learn-to-compress-workshop-isit.github.io/).
 
