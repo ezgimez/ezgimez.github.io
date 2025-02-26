@@ -28,7 +28,12 @@ Useful links: [Google Scholar](https://scholar.google.com/citations?hl=en&user=M
 
 ## Updates
 
+
+* January 2025: Excited to be joining **Apple** as an *ML/CV Research Intern* this summer in Cupertino!
+
 * January 2025: Our workshop proposal titled *"Learn to Compress and Compress to Learn"* for [2025 IEEE International Symposium on Information Theory](https://2025.ieee-isit.org/) has been accepted! Check out our workshop website [here](https://learn-to-compress-workshop-isit.github.io/).
+
+* December 2024: Honored to be selected as a recipient of the 2024 [IEEE Signal Processing Society (SPS)](https://signalprocessingsociety.org/) [Scholarship](https://signalprocessingsociety.org/gallery/2024-sps-scholarship-recipients)!
 
 * November 2024: In our recent [NeurIPS'24 workshop paper](https://openreview.net/forum?id=qcM1fkFj3Y), we discuss a few overarching *failure modes* of some popular class of neural compressors -- that is, their difficulty in learning discontinuous functions.  
 
