@@ -28,6 +28,7 @@ Useful links: [Google Scholar](https://scholar.google.com/citations?hl=en&user=M
 
 ## Updates
 
+* February 2025: Gave an *invited talk* at the [High-Beams Seminar](https://complightlab.com/outreach/), where I discussed my recent work on learning-based distributed compression. Many thanks to [Kaan Aksit](https://kaanaksit.com/) for the kind invitation!
 
 * February 2025: Excited to be joining **Apple** as an *ML/CV Research Intern* this summer in Cupertino!
 
@@ -41,31 +42,19 @@ Useful links: [Google Scholar](https://scholar.google.com/citations?hl=en&user=M
 
 * September 2024: I presented our work titled [*Neural Compress-and-Forward for the Relay Channel*](https://arxiv.org/abs/2404.14594) at [SPAWC 2024](https://spawc2024.org/), in the beautiful Italian city of Lucca! Here is the [poster](assets/Neural_Compress-and-Forward_SPAWC2024_poster.pdf). 
 
-* July 2024: Our [workshop proposal](https://neuralcompression.github.io/workshop24) (compression + machine learning) for NeurIPS 2024 has been accepted! Details will follow shortly :) 
+* July 2024: Our [workshop proposal](https://neuralcompression.github.io/workshop24) (compression + machine learning) for NeurIPS 2024 has been accepted!
 
 
 * July 2024: Our recent work titled [*Neural Compress-and-Forward for the Relay Channel*](https://arxiv.org/abs/2404.14594) got accepted to [IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC) 2024](https://spawc2024.org/)!
 
-* May 2024: In our recent preprints ([[1]](https://arxiv.org/abs/2404.14594) and [[2]](https://arxiv.org/abs/2405.09534v1)), we propose neural "compress-and-forward" (CF) schemes for the relay channel, that leverage my previous neural distributed compression work. Our proposed neural CF operates closely to the maximum achievable rate in a "primitive relay channel" and also yields interpretable results :) 
 
 * April 2024: Our recent work titled [*"Neural Distributed Compressor Discovers Binning"*](https://arxiv.org/abs/2310.16961) got accepted to IEEE Journal on Selected Areas in Information Theory (JSAIT), part of the special issue on Toby Berger. 
 
-
-* April 2024: Our recent [preprint](https://arxiv.org/abs/2403.08411) on robust distributed lossy compression was accepted to the [2024 IEEE International Symposium on Information Theory](https://2024.ieee-isit.org/) Workshops (ISIT'24 Wkshps)!
-
-* March 2024: In our recent [preprint](https://arxiv.org/abs/2403.08411), we extend our [neural distributed lossy compression framework](https://ieeexplore.ieee.org/document/10206542) to more robust/general compression settings -- for example, where side information may be absent. We demonstrate that our learned compressors mimic the theoretical optimum and yield interpretable results :) 
-
-* February 2024: Our recent survey titled *"Distributed Compression in the Era of Machine Learning: A Review of Recent Advances"* will appear [at the Conference on Information Sciences and Systems (CISS'24)](https://ee-ciss.princeton.edu/) as an invited paper! Preprint is available [here](https://arxiv.org/abs/2402.07997).
 
 
 * January 2024: The full program for our 'Learn to Compress' workshop @ [ISIT'24](https://2024.ieee-isit.org/workshops)  (including keynote speakers and call for papers) is [out](https://learn-to-compress-workshop-isit.github.io/2024/about/).
 
 
-* December 2023: *"Distributed Deep Joint Source-Channel Coding with Decoder-Only Side Information"*  was accepted to the inaugural [2024 IEEE International Conference on Machine Learning for Communication and Networking (ICMLCN)](https://icmlcn2024.ieee-icmlcn.org/)! Preprint is available [here](https://arxiv.org/abs/2310.04311).
-
-* November 2023: Our proposal ["Learn to Compress"](https://2024.ieee-isit.org/workshops) has been accepted as a workshop at [ISIT 2024](https://2024.ieee-isit.org/). The proposal was put forward by [Aaron Wagner (Cornell University)](https://www.ece.cornell.edu/faculty-directory/aaron-b-wagner), [Elza Erkip (NYU)](https://wp.nyu.edu/elza_erkip/) and myself. We will release more details about this workshop in December -- but meanwhile, feel free to check out our [workshop website](https://learn-to-compress-workshop-isit.github.io/2024/about/)!  
-
-* October 2023: The draft version of the journal version of our previous ISIT 2023 paper is available in [arXiv](https://arxiv.org/abs/2310.16961)! We demonstrate that the neural distributed compressor mimics the theoretical optimum for more exemplary sources :) 
 
 * July 2023: I presented our work titled [*"Neural Distributed Compressor Does Binning"*](https://openreview.net/forum?id=3Dq4FZJSga) at Neural Compression Workshop @ ICML'23. Here are the [slides](/assets/Ozyilkan_ICML2023-workshop_final.pdf).
 
