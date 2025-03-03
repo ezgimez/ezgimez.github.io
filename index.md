@@ -18,8 +18,7 @@ Electrical and Computer Engineering** at *New York University* where I'm advised
 
 I am a collaborative researcher and enjoy working with people from diverse backgrounds. My current research is driven by a passion for **connecting theory and practice** in data compression and communication problems, particularly in distributed scenarios. I leverage tools from **learning, signal processing, compression and information theory**, yielding interpretable results. When I am not busy with research, I enjoy hiking and expanding my food and coffee ☕ palate.
 
-
-*I am always happy to chat and am open to give invited talks on topics at the intersection of information theory, "deep"/machine learning and data compression* -- feel free to drop me an email at *ezgi(dot)ozyilkan(at)nyu(dot)edu*!
+ *I am always happy to chat and am open to give invited talks on topics at the intersection of information theory, "deep"/machine learning and data compression* -- feel free to drop me an email at *ezgi(dot)ozyilkan(at)nyu(dot)edu*!
 
 Useful links: [Google Scholar](https://scholar.google.com/citations?hl=en&user=MVZFqdQAAAAJ) | [LinkedIn](https://www.linkedin.com/in/ezgi-ozyilkan-21b2ab191/) | [arXiv](https://arxiv.org/a/ozyilkan_e_1.html) | [GitHub](https://github.com/ezgimez)
 @@
@@ -44,20 +43,13 @@ Useful links: [Google Scholar](https://scholar.google.com/citations?hl=en&user=M
 
 * July 2024: Our [workshop proposal](https://neuralcompression.github.io/workshop24) (compression + machine learning) for NeurIPS 2024 has been accepted!
 
-
 * July 2024: Our recent work titled [*Neural Compress-and-Forward for the Relay Channel*](https://arxiv.org/abs/2404.14594) got accepted to [IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC) 2024](https://spawc2024.org/)!
-
 
 * April 2024: Our recent work titled [*"Neural Distributed Compressor Discovers Binning"*](https://arxiv.org/abs/2310.16961) got accepted to IEEE Journal on Selected Areas in Information Theory (JSAIT), part of the special issue on Toby Berger. 
 
-
-
 * January 2024: The full program for our 'Learn to Compress' workshop @ [ISIT'24](https://2024.ieee-isit.org/workshops)  (including keynote speakers and call for papers) is [out](https://learn-to-compress-workshop-isit.github.io/2024/about/).
 
-
-
 * July 2023: I presented our work titled [*"Neural Distributed Compressor Does Binning"*](https://openreview.net/forum?id=3Dq4FZJSga) at Neural Compression Workshop @ ICML'23. Here are the [slides](/assets/Ozyilkan_ICML2023-workshop_final.pdf).
-
 
 * July 2023: I was selected as the _best reviewer_ for the [Neural Compression Workshop @ ICML'23](https://neuralcompression.github.io/workshop23). 
 
