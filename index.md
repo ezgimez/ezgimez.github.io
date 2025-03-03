@@ -16,10 +16,10 @@
 Hi, I am Ezgi (she/they). I am a **PhD candidate in
 Electrical and Computer Engineering** at *New York University* where I'm advised by [Elza Erkip](https://wp.nyu.edu/elza_erkip/). I hold an (integrated) MEng degree in Electrical Electronics Engineering from *Imperial College London*. Recent collaborators include [Jona Ballé](https://balle.io/) and [Aaron B. Wagner](https://www.ece.cornell.edu/faculty-directory/aaron-b-wagner) and [Deniz Gündüz](https://profiles.imperial.ac.uk/d.gunduz). 
 
-I am a collaborative researcher and enjoy working with people from diverse backgrounds. My current research is driven by a passion for **connecting theory and practice** in data compression and communication problems, particularly in distributed scenarios. I leverage tools from **learning, signal processing, compression and information theory**, *yielding interpretable results*. When I am not busy with research, I enjoy hiking and expanding my food and coffee ☕ palate.
+I am a collaborative researcher and enjoy working with people from diverse backgrounds. My current research is driven by a passion for **connecting theory and practice** in data compression and communication problems, particularly in distributed scenarios. I leverage tools from **learning, signal processing, compression and information theory**, yielding interpretable results. When I am not busy with research, I enjoy hiking and expanding my food and coffee ☕ palate.
 
 
-I am always happy to chat about topics at the intersection of information theory and deep/machine learning -- feel free to drop me an email at *ezgi(dot)ozyilkan(at)nyu(dot)edu*!
+*I am always happy to chat and am open to give invited talks on topics at the intersection of information theory, "deep"/machine learning and data compression* -- feel free to drop me an email at *ezgi(dot)ozyilkan(at)nyu(dot)edu*!
 
 Useful links: [Google Scholar](https://scholar.google.com/citations?hl=en&user=MVZFqdQAAAAJ) | [LinkedIn](https://www.linkedin.com/in/ezgi-ozyilkan-21b2ab191/) | [arXiv](https://arxiv.org/a/ozyilkan_e_1.html) | [GitHub](https://github.com/ezgimez)
 @@
@@ -28,7 +28,7 @@ Useful links: [Google Scholar](https://scholar.google.com/citations?hl=en&user=M
 
 ## Updates
 
-* February 2025: Gave an *invited talk* at the [High-Beams Seminar](https://complightlab.com/outreach/), where I discussed my recent work on learning-based distributed compression. Many thanks to [Kaan Aksit](https://kaanaksit.com/) for the kind invitation!
+* February 2025: Gave an *invited talk* at the [High-Beams Seminar](https://complightlab.com/outreach/), where I discussed my recent work on learning-based distributed (data) compression. Many thanks to [Kaan Aksit](https://kaanaksit.com/) for the kind invitation!
 
 * February 2025: Excited to be joining **Apple** as an *ML/CV Research Intern* this summer in Cupertino!
 
