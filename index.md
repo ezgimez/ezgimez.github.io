@@ -13,7 +13,7 @@
 >
 ~~~
 
-Hi, I am Ezgi (she/they). I am a **PhD candidate in
+Hi, I am Ezgi. I am a **PhD candidate in
 Electrical and Computer Engineering** at *New York University* where I'm advised by [Elza Erkip](https://wp.nyu.edu/elza_erkip/). I hold an (integrated) MEng degree in Electrical Electronics Engineering from *Imperial College London*. Recent collaborators include [Jona Ballé](https://balle.io/) and [Aaron B. Wagner](https://www.ece.cornell.edu/faculty-directory/aaron-b-wagner) and [Deniz Gündüz](https://profiles.imperial.ac.uk/d.gunduz). 
 
 I am a collaborative researcher and enjoy working with people from diverse backgrounds. My current research is driven by a passion for **connecting theory and practice** in data compression and communication problems, particularly in distributed scenarios. I leverage tools from **learning, signal processing, compression and information theory**, yielding interpretable results. When I am not busy with research, I enjoy hiking and expanding my food and coffee ☕ palate.
@@ -26,6 +26,8 @@ Useful links: [Google Scholar](https://scholar.google.com/citations?hl=en&user=M
 
 
 ## Updates
+
+ * March 2025: Honored to be selected as an [NSF iREDEFINE 2025 Fellow](https://www.ecedha.org/Meetings/2025-ECEDHA-Annual-Conference-and-ECExpo/iREDEFINE) by the Electrical and Computer Engineering Department Heads Association [(ECEDHA)](https://www.ecedha.org/)! 
 
 * February 2025: Gave an *invited talk* at the [High-Beams Seminar](https://complightlab.com/outreach/), where I discussed my recent work on learning-based distributed (data) compression. Many thanks to [Kaan Aksit](https://kaanaksit.com/) for the kind invitation!
 
