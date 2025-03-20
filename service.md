@@ -2,7 +2,9 @@
 @def tags = ["service"]
 
 
-**Co-organizer** of the NeurIPS 2024 [*Machine Learning and Compression Workshop*](https://neuralcompression.github.io/workshop24) and the IEEE ISIT 2025 [*"Learn to Compress & Compress to Learn" Workshop*](https://learn-to-compress-workshop-isit.github.io/). 
+**Co-organizer** of the IEEE ISIT 2025 [*"Learn to Compress & Compress to Learn" Workshop*](https://learn-to-compress-workshop-isit.github.io/). 
+
+**Co-organizer** of the NeurIPS 2024 [*Machine Learning and Compression Workshop*](https://neuralcompression.github.io/workshop24).
 
 **Lead organizer** of the IEEE ISIT 2024 [*"Learn to Compress" Workshop*](https://learn-to-compress-workshop-isit.github.io/2024/about/).
 
