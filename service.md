@@ -1,4 +1,4 @@
-@def title = "Community Service"
+@def title = "Service"
 @def tags = ["service"]
 
 
