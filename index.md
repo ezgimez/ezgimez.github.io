@@ -27,7 +27,7 @@ Useful links: [Google Scholar](https://scholar.google.com/citations?hl=en&user=M
 
 ## Updates
 
- * March 2025: Honored to be selected as an [NSF iREDEFINE 2025 Fellow](https://www.ecedha.org/Meetings/2025-ECEDHA-Annual-Conference-and-ECExpo/iREDEFINE) by the Electrical and Computer Engineering Department Heads Association [(ECEDHA)](https://www.ecedha.org/)! 
+ * March 2025: Honored to be selected as an [iREDEFINE 2025 Fellow](https://www.ecedha.org/Meetings/2025-ECEDHA-Annual-Conference-and-ECExpo/iREDEFINE) by the Electrical and Computer Engineering Department Heads Association [(ECEDHA)](https://www.ecedha.org/)! Here is the [poster](/assets/Ozyilkan_iREDEFINE-poster_March2025.pdf) I presented.
 
 * February 2025: Gave an *invited talk* at the [High-Beams Seminar](https://complightlab.com/outreach/), where I discussed my recent work on learning-based distributed (data) compression. Many thanks to [Kaan Aksit](https://kaanaksit.com/) for the kind invitation!
 
