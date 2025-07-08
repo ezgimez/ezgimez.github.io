@@ -9,7 +9,7 @@
 <img 
     class="left" 
     id=profpic
-    src="assets/pic_ezgi.jpeg"
+    src="assets/pic_2025.jpeg"
 >
 ~~~
 
@@ -26,6 +26,8 @@ Useful links: [Scholar](https://scholar.google.com/citations?hl=en&user=MVZFqdQA
 
 
 ## Updates
+
+* July 2025: My PhD research was featured on [NYU Tandon's website](https://engineering.nyu.edu/news/meet-graduate-student-ezgi-ozyilkan)! Many thanks to [Mari Rich](https://engineering.nyu.edu/staff/mari-rich) for the fun interview. 
 
 * May 2025: Excited to be joining **Apple** as an *ML + Video Research Intern* this summer in Cupertino! Relocated to San Francisco/Bay Area for the summer.
 
