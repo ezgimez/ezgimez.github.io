@@ -13,19 +13,23 @@
 >
 ~~~
 
-Hi, I am Ezgi. I am a **PhD candidate in
-Electrical and Computer Engineering** at *New York University* where I'm advised by [Elza Erkip](https://wp.nyu.edu/elza_erkip/). I hold an (integrated) MEng degree in Electrical Electronics Engineering from *Imperial College London*. My recent collaborators include [Jona Ballé](https://balle.io/) and [Aaron B. Wagner](https://www.ece.cornell.edu/faculty-directory/aaron-b-wagner) in academia, and [Zhiqi Chen](https://zhiqiiiiiii.github.io/), [Kedar Tatwawadi](https://kedartatwawadi.github.io/) and [Oren Rippel](https://www.orenrippel.com/) from Apple.
+Hi, I am Ezgi. I am an **incoming ML Research Engineer at Apple**, where I will be working on problems at the intersection of **ML + Video**.
 
-I’m a collaborative researcher who enjoys working across diverse teams. My PhD work focuses on bridging theory and practice in data compression by drawing on tools from **deep/machine learning**, **signal processing**, and **information theory**. More recently, I’ve also begun working on **perceptual optimization** and **3D vision**.
+I recently completed my **PhD in Electrical and Computer Engineering** at *New York University*, advised by [Elza Erkip](https://wp.nyu.edu/elza_erkip/). I hold an (integrated) MEng degree in Electrical Electronics Engineering from *Imperial College London*. My recent collaborators include [Jona Ballé](https://balle.io/) and [Aaron B. Wagner](https://www.ece.cornell.edu/faculty-directory/aaron-b-wagner) in academia, and [Zhiqi Chen](https://zhiqiiiiiii.github.io/), [Kedar Tatwawadi](https://kedartatwawadi.github.io/) and [Oren Rippel](https://www.orenrippel.com/) from Apple.
 
- *I am always happy to chat on topics at the intersection of information theory, deep/machine learning and data compression* -- feel free to drop me an email at *me(at)ezgi(dot)space*.
+I’m a collaborative researcher who enjoys working across diverse teams. My PhD work focused on bridging theory and practice in data compression by drawing on tools from **deep/machine learning**, **signal processing**, and **information theory**. More recently, I’ve also begun working on **perceptual optimization** and **3D vision**.
+
+*I am always happy to connect with researchers at the intersection of ML, neural compression and information theory — feel free to reach out to me at me(at)ezgi(dot)space*.
+
 
 Useful links: [Scholar](https://scholar.google.com/citations?hl=en&user=MVZFqdQAAAAJ) | [LinkedIn](https://www.linkedin.com/in/ezgi-ozyilkan/) | [arXiv](https://arxiv.org/a/ozyilkan_e_1.html) | [GitHub](https://github.com/ezgimez)
 @@
 @@
 
 
-## Recent Updates
+## Recent (Selected) Updates
+
+* December 2025: I successfully defended my PhD thesis titled *"Neural Distributed Data Compression & Communication"*. Find the slides [here](/assets/Ozyilkan_NYU-PHD-Defense_Dec2025.pdf)!
 
 * July 2025: My PhD research was featured on [NYU Tandon's website](https://engineering.nyu.edu/news/meet-graduate-student-ezgi-ozyilkan)! Many thanks to [Mari Rich](https://engineering.nyu.edu/staff/mari-rich) for the fun interview.
 
